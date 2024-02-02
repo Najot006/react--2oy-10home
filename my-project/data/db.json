@@ -1,0 +1,46 @@
+{
+    "navbar_text":[
+        {
+            "title_1":"NFT Marketplace",
+            "title_2":"Marketplace",
+            "title_3":"Rankings",
+            "title_4":"Connect a wallet",
+            "title_5":"Sign Up"
+        }
+    ],
+
+    "image":[
+        {
+            "img_1":"https://s3-alpha-sig.figma.com/img/8ac9/e0e3/bcf2d5507a81254146143702cd71f923?Expires=1707696000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=m19vRdbDKp2llqb771f2On~RrJsVJoMbMC9MEQgb62AJCMOItsRi-Q9TV-GcvJXY041rkJJda83~4NLfx2cGgugDcTSQa~ZGKVxSO1FCzBNT36JGF1C7lJQYJE-dKIkWzcWkFrFPca4qPQYVGx2L~lIxLBGcITQsRAJghI8B3PEjARi2OtuWPiPayCPrTSDaGhdt8MwvLnBiQSAJkfNfd0ecQyy36dq~RTnbA6ZkHRugoYkc5phNN~BT3NS12pQy74Rq3~2nyRkqWLy1m7EYReZIdvK3nOxMTyS2geBRg3O6~vULkB9afmPS9H3SVqErF136lXGKs8U8muFCDj0Uqw__",
+            "img_2":"https://s3-alpha-sig.figma.com/img/9113/13b2/d79c0afb936279fe8427b823bc6218b6?Expires=1707696000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=ll1rfzX5Gp~b1HMxEwiD45nIlFK9r5tC3qtPnQ5mUosxp6wWVgzxMPdSMe-wWUE8znXkgV2dGdWMjYC1GLNzHY1UG70J5mVOHHLvsCufqMG4xSw8KLecwrFETs9m5MN2quInILS6Bn9ZFitDXHE5De2GfHCwtBhkvV8fbQXcrqlxRsSm3WdNPYRYtP-F8GynP6fVWwFo~7kGEB3dV8rTGciMYEyw6BwelQy8nWwPjqfovs30iTdiRRbD4gQYO~UqrJLZjQDuGJUTCm0HOI4lCyHfU2gfExFPQvkKwGLvSz89QBIh~aSkqEUsuzY5MzKtkjOxAVzixXQ5htNQUP-3JA__"
+        }
+    ],
+    "heder":[
+        {
+            "title_6":"Discover Digital art & Collect NFTs",
+            "title_7":"NFT marketplace UI created with Anima for Figma. Collect, buy and sell art from more Than 20k NFT artists.",
+             "btn_text":"Get started",
+             "nt_num1":"240k+",
+             "nt_text1":"Total sale",
+             "nt_num2":"100k+",
+             "nt_text2":"Auctions",
+             "nt_text3":"Total sale"
+        }
+    ],
+    "main":[
+        {
+            "main_t":"Trending Collection",
+            "main_t2":"Checkout our weekly updated trending collection.",
+            "main_t3":"Top creators",
+            "main_t5":"Browse Categories",
+            "main_t4":"Checkout Top Rated Creators on the NFT Marketplace kjewbfwi kfv",
+            "main_btn":"View Rankings",
+            "main_link2":"https://raw.githubusercontent.com/Umid0704/image/main/Image%20Placeholder.png",
+            "main_img1":"https://s3-alpha-sig.figma.com/img/a792/ddc0/c4e1193ffd08cf4918e6f696bbc8d8fe?Expires=1707696000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=mrDuBh23jD6tV7~C2uZhEuQYAtQa46d22EIdr6fyrQZbHKARkiHOYJ-kkFa8rfZL5rROdUMr6PM4frsqniXvQ0slI-YbzjIz-RiFd4L3Ak1C2V9edblkVtEGItyrXsgEi7QC9B40SQ3rsYp4aILLpxO5Sth-KxgXiEg4Tehi4qT3dvzK0mu8xN26TTdb946a5yu3M91OhauACIFZTdfCXefKihW0onagv~mG-NT6K4ciqy84b-4TMDCNyEcoKkb~R~0XPK1HkC0ngf-kIG82woZ-86FD2O5rA3VnakSas08wl3eA3bCJ9laFyHU5fy5t2AU0Haj3k2AKxcv8Si-GFg__",
+            "main_img2":"https://s3-alpha-sig.figma.com/img/4eec/8eba/54b2d345dc1480b247b05bb6f0d1f429?Expires=1707696000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=FBJJ6Zsbxf-PFe3FE4s4h1TLXf9D-LAtXqOF7CrVj5WnIW9U66T9FDA85304hjH7elUzXWAmjwMkuskdHZSV5xUW8~-1uqMvlNg~9SjD6OBAWp4fETMTlz8gO3SlbFwTCvH4f4EIwbXNSEIUOMyOvTfrQo7kpicjIOb9vCd13rm3sk3GvGTZBOCfDbYQPDyxZJDap4nJlEgOeTrf7uWUgmmO0z-~ddHzX4asHiCIhNy1qGeqDRcPneGgXCprJpZSbkscqC41WMJAfSTwIOpjIdGCNwDjIfTPMqKpWWrBnfhyD9LsoatDuHV~Fzi5NjfFUl~kqZL759h3h4Wc6Nzgnw__",
+            "main_img3":"https://s3-alpha-sig.figma.com/img/7e55/1754/df2c85a307298720a7483609e93b5fef?Expires=1707696000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=bQWX-bPSLHzYetreS0BBEC~Ow4AbSHKki4JV3Bq52QIQtMPrQTitsbmxmHqn9JkKQCO2ddVzhcR9wJCnySkOvOGftEMp0oztnwMp0UPt8hLt8NteoNBv8riaipK5ws8pwAWVGRhbUyiJfomfGXVKAlcbqB885uoljnlr4kyEJlVhEMWoBdocYsrKj7tQcuk0Hui9z44A-J-G1wM6OXwT4yjl3UeC3eEL2gzyu5o-0u4E2fShq8qbz8tNTR4ZUUUWJE9GTAVPc6QZIB69q7sY1oYdY3chXseqWHjralDqGpFO67ZhTWMF7fbThnzkrS8cLKvqgRCuI6ugr-CxocTCfw__",
+            "main_link1":"https://s3-alpha-sig.figma.com/img/9acf/2677/568b38bc98ba36dbd43c768c40de6716?Expires=1707696000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=bezFWaZuycl7hI-tFcAxcb4uxXgUyvwMlqc-Wmpk9hU1W1A5C~1EdrzSoQRphwxwuW7I54g~3egMs706QrE6A8fDOtegw47k2QFwGqsmWZs9kVICJ83N7QUISzzhK66lmxPW4ApL1xSYHFHPX5dJzDe6-x8HyJKfT6Vw9x2OXUr5b7O9KjN39vhjwGFdaqx-DqlOVV3l8gEJX~GNWJPwUZUWKFcOsvGhfhkk0XfyUlgsQnbT1V1XBY7ucELladcDO7ZXOxxGgrOWXupk5qDEAwNQd4n~qsFWb1n4UUsvRjmm64JuJk3lVYZ6jDrU5KBkDWsz-9Hv5WZTkiZ3im5ZpQ__"
+        }
+    ]
+}
+

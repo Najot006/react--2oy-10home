@@ -1,0 +1,271 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.navbar {
+  width: 100%;
+  height: 100px;
+  background-color: #2b2b2b;
+}
+.titel_1 {
+  color: white;
+  font-size: 25px;
+}
+.navbar_boshi {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px 50px;
+  gap: 60px;
+}
+.nav_link {
+  display: flex;
+  gap: 80px;
+}
+h3 {
+  color: white;
+  margin-top: 20px;
+}
+.nav_btn {
+  width: 152px;
+  height: 60px;
+  border-radius: 20px;
+  border: none;
+  background-color: #a259ff;
+  color: #fff;
+  font-size: 16px;
+  cursor: pointer;
+}
+.heder_body {
+  padding: 20px 50px;
+  background-color: #2b2b2b;
+}
+.title_6 {
+  width: 390px;
+  height: 222px;
+  font-size: 67px;
+  font-weight: 600;
+  line-height: 74px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #fff;
+}
+.title_7 {
+  width: 400px;
+  height: 105px;
+  font-size: 22px;
+  font-weight: 400;
+  line-height: 35px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #ffffff;
+  margin-top: 20px;
+}
+.btn_text {
+  width: 224px;
+  height: 60px;
+  padding: 0px, 50px, 0px, 50px;
+  border-radius: 20px;
+  gap: 12px;
+  border: none;
+  margin-top: 30px;
+  background: #a259ff;
+  color: #fff;
+  font-size: 20px;
+}
+.btn_clas {
+  display: flex;
+  gap: 35px;
+  font-size: 20px;
+  margin-top: 30px;
+}
+.img_1 {
+  width: 510px;
+  height: 401px;
+  border-radius: 20px, 20px, 0px, 0px;
+}
+.flex {
+  display: flex;
+  background-color: #2b2b2b;
+  justify-content: space-between;
+  padding: 80px 115px;
+}
+.hello {
+  width: 510px;
+  height: 109px;
+  padding: 20px;
+  border-radius: 0px, 0px, 20px, 20px;
+  gap: 10px;
+  background: #3b3b3b;
+  border-radius: 10px;
+}
+.achki {
+  width: 24px;
+  height: 24px;
+  border-radius: 7px;
+}
+.asus {
+  display: flex;
+  gap: 10px;
+  margin-top: 10px;
+}
+.asil {
+  margin-top: 4px;
+  color: #fff;
+}
+.mainc {
+  padding: 80px 155px;
+  background-color: #2b2b2b;
+}
+.main_t {
+  width: 1046px;
+  height: 46px;
+  font-size: 38px;
+  font-weight: 600;
+  line-height: 46px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #fff;
+}
+.main_t2 {
+  width: 1046px;
+  height: 35px;
+  font-size: 22px;
+  font-weight: 400;
+  line-height: 35px;
+  margin-top: 10px;
+  color: white;
+}
+.dog {
+  width: 330px;
+  height: 330px;
+  border-radius: 20px;
+  margin-top: 60px;
+}
+.cat {
+  width: 100px;
+  height: 100px;
+  border-radius: 20px;
+}
+.animal_left {
+  display: flex;
+  margin-top: 15px;
+  gap: 15px;
+}
+.collek {
+  margin-top: 10px;
+  color: white;
+  font-size: 20px;
+}
+.animal_usha {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 90px;
+}
+.main2 {
+  width: 703px;
+  height: 46px;
+  font-size: 40px;
+  font-weight: 600;
+  line-height: 46px;
+  color: #ffffff;
+}
+.item {
+  margin-top: 180px;
+}
+.main_p {
+  width: 703px;
+  height: 35px;
+  margin-top: 30px;
+  font-size: 22px;
+  font-weight: 400;
+  line-height: 35px;
+  color: #fff;
+}
+.redmi {
+  display: flex;
+  gap: 90px;
+}
+.mani_btn {
+  width: 247px;
+  height: 60px;
+  padding: 0px, 50px, 0px, 50px;
+  border-radius: 20px;
+  gap: 12px;
+  margin-left: 190px;
+  border: none;
+  background: #a259ff;
+  color: white;
+  font-size: 15px;
+  cursor: pointer;
+}
+.kenneyi {
+  width: 240px;
+  height: 238px;
+  padding: 20px;
+  border-radius: 20px;
+  gap: 20px;
+  background: #3b3b3b;
+  margin-top: 60px;
+}
+.uka {
+  width: 120px;
+  height: 120px;
+  border-radius: 100px;
+  margin-left: 40px;
+}
+.day {
+  display: flex;
+  font-size: 10px;
+  gap: 20px;
+  margin-left: 20px;
+}
+.ll {
+  width: 200px;
+  height: 31px;
+  font-size: 22px;
+  font-weight: 600;
+  line-height: 31px;
+  margin-left: 54px;
+  color: #fff;
+  margin-top: 10px;
+}
+.total {
+  margin-top: 17px;
+  color: white;
+}
+.pro {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 60px;
+}
+.main5 {
+  width: 1050px;
+  height: 46px;
+  margin-top: 180px;
+  font-size: 40px;
+  color: #fff;
+}
+.pela {
+  width: 240px;
+  height: 76px;
+  padding: 20px, 30px, 25px, 30px;
+  gap: 25px;
+  background: #3b3b3b;  
+  border-radius: 10px;
+}
+.d-flex {
+  margin-left: 50px;
+  color: white;
+  margin-top: 5px;
+}
+.flew{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 90px;
+  margin-top: 100px;
+}
